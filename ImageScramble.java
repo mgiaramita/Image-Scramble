@@ -13,7 +13,7 @@ class ImageScramble{
 		//-s is to scramble an image
 
 		//Current version loses some data and color
-		//need to find a better way to get the pixel data
+		//Need to find a better way to get the pixel data
 
 		String image;
 
