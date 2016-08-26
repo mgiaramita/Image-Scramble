@@ -9,3 +9,10 @@ Next is the operation to be performed:
 	
 Example:
   java ImageScramble ex.jpg -s
+
+
+Change this:
+![alt tag] (http://i.imgur.com/CanSaBX.jpg)
+
+To this:
+![alt tag] (http://i.imgur.com/HjuZNgJ.jpg)
