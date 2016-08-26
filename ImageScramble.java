@@ -6,8 +6,8 @@ import javax.imageio.ImageIO;
 class ImageScramble{
 	public static void main(String args[]){
 		
-		//Program requires command line peramaters to run
-		//First peramater is the image name 'example.jpg'
+		//Program requires command line paramaters to run
+		//First paramater is the image name 'example.jpg'
 		//Next is the operation to be performed: -u -s
 		//-u is to unscramble an image
 		//-s is to scramble an image
@@ -18,7 +18,7 @@ class ImageScramble{
 		String image;
 
 		if(args.length < 2){
-			System.out.println("Too few perameters: imagename.extension -u/-s");
+			System.out.println("Too few parameters: imagename.extension -u/-s");
 		}
 		else{
 			image = args[0];
@@ -37,7 +37,7 @@ class ImageScramble{
 				}
 			}
 			else{
-				System.out.println("Incorect perameters: imagename.extension -u/-s");
+				System.out.println("Incorect parameters: imagename.extension -u/-s");
 			}
 		}
 	}
