@@ -1,8 +1,8 @@
 # Image-Scramble
 Scramble and unscramble images
 
-Program requires command line peramaters to run
-First peramater is the image name 'example.jpg'
+Program requires command line paramaters to run
+First paramater is the image name 'example.jpg'
 Next is the operation to be performed: 
 	-u is to unscramble an image
 	-s is to scramble an image
