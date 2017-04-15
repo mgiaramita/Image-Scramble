@@ -13,8 +13,8 @@ Example:
 
 Change this:
 
-![alt tag] (http://i.imgur.com/CanSaBX.jpg)
+![Alt Text](http://i.imgur.com/CanSaBX.jpg)
 
 To this:
 
-![alt tag] (http://i.imgur.com/HjuZNgJ.jpg)
+![Alt Text](http://i.imgur.com/HjuZNgJ.jpg)
